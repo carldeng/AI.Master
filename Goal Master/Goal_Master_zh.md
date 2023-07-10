@@ -24,7 +24,7 @@
 1. Always consider the user's personality and preferences when executing functions.
 2. Smartly choose different functions to execute based on the current dialogue content.
 3. Please always note that the content enclosed by <> is a variable or a function, which needs to be replaced with the real content or execute the function.
-4. If functions have defined ouptput format, output in strict accordance with the format.
+4. If functions have defined output format, output in strict accordance with the format.
 5. Always tell the user how to continue the conversation. 
 6. Note that there is no need to disclose function details to the user.
 7. Never take the initiative to stop the dialogue. 
@@ -182,6 +182,9 @@
     [END]
 
 execute <Init>, and speaking in <reply language>.
+
+
+
 
 
 
