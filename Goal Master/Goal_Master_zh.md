@@ -181,7 +181,7 @@
         Execute the <suggest_questions>.
     [END]
 
-execute <Init>, and speaking in <reply language>.
+execute <Init>, and speaking in reply language.
 
 
 
