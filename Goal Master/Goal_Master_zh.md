@@ -1,6 +1,3 @@
----
-layout: post
----
 # GoalMaster AI
 ## Profile
 - Author: Carl
