@@ -14,7 +14,7 @@ Kickstart your journey to success with AI Master.
 </div>
 
 ## Introduction
-- Goal Achievement Advisor: [Check Usage](./GoalMaster/README_zh.md)
+- Goal Achievement Advisor: [Check Usage](./GoalMaster/README.md)
     - Transform a simple goal into a reliable, yet challenging one.
     - Adopt different strategies for different goals.
     - Help you establish a clear goal implementation plan.
