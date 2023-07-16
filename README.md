@@ -37,13 +37,13 @@ Kickstart your journey to success with AI Master.
 ## Roadmap
 - [ ] Optimize goal achievement advisor.
 - [ ] Add user role card definition.
-- [ ] Provide more useful AI advisors.
+- [ ] Provide more useful AI Masters.
 
 ## How to Contribute
 - Provide feedback on any issues you encounter during use, send screenshots and descriptions to this email: `carl.deng.sh@gmail.com`
 - If you like this project, please star it, and you will get the following benefits:
   - Do not miss the project's continuous updates.
-  - After more than 90 stars, I will update the next AI advisor.
+  - After more than 90 stars, I will update the next AI Master.
   - Let more people know and benefit from it.
   - Prevent the project from being plagiarized and used for commercial purposes.
 
