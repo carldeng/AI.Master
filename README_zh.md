@@ -14,7 +14,7 @@ Kickstart your journey to success with AI Master.
 </div>
 
 ## 顾问介绍
-- 目标达成顾问：[查看使用方式](./GoalMaster/README_zh.md)
+- 目标达成顾问：[查看使用方式](./GoalMaster/README.md)
     - 把一句话目标，变为靠谱，又有一定挑战的目标
     - 面对不同的目标，采用不同达成策略
     - 帮助你制定明确的目标实施计划
