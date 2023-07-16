@@ -4,7 +4,7 @@
 ![GoalMaster_zh.png](../Doc/img/GoalMaster_zh.png)
 
 ## 如何使用
-- 打开[Goal_Master_zh.md](../GoalMaster/README_zh.md)，复制文档中的全部内容
+- 打开[Goal_Master_zh.txt](../GoalMaster/Goal_Master_zh.txt)，复制文档中的全部内容
 - 打开ChatGPT，选择GPT4.0，粘贴复制的内容，进行对话
 - 根据AI的提问进行回答
 - AI执行函数时，直接回复：”继续“

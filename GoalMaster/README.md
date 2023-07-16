@@ -4,7 +4,7 @@
 ![GoalMaster_en.png](..%2FDoc%2Fimg%2FGoalMaster_en.png)
 
 ## How to Use
-- Open [Goal_Master_en.md](../GoalMaster/README_en.md), copy all the content in the document.
+- Open [Goal_Master_en.txt](../GoalMaster/Goal_Master_en.txt), copy all the content in the document.
 - Open ChatGPT, select GPT4.0, paste the copied content, and start a conversation.
 - Answer according to the AI's questions.
 - When the AI executes a function, directly reply: "Continue".
