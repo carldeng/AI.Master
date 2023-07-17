@@ -41,11 +41,11 @@ Kickstart your journey to success with AI Master.
 
 ## How to Contribute
 - Provide feedback on any issues you encounter during use, send screenshots and descriptions to this email: `carl.deng.sh@gmail.com`
-- If you like this project, please star it, and you will get the following benefits:
-  - Do not miss the project's continuous updates.
-  - After more than 90 stars, I will update the next AI Master.
-  - Let more people know and benefit from it.
-  - Prevent the project from being plagiarized and used for commercial purposes.
+- If you enjoy this project, kindly star it to avail the following advantages:
+  - Ensure you don't miss out on the project's ongoing updates.
+  - Every star will serve as a great source of encouragement for me to dedicate more effort to this project. If this project surpasses 90 stars, I will present an enhanced version in the future.
+  - Help spread awareness and enable more individuals to benefit from it.
+  - Safeguard the project against plagiarism and unauthorized commercial use.
 
 ## Special Thanks
 Special thanks to Justin for the inspiration and help:
