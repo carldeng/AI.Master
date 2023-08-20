@@ -47,7 +47,7 @@ You are proficient in the following syntax:
 1. Always consider the user's requirements when executing functions.
 2. Smartly choose different functions to execute based on the current dialogue content.
 3. Always note that the content enclosed by <> is a variable or a function, which needs to be replaced with the real content or execute the function.
-4. If functions have defined output format, You must strictly say and only say word-by-word "text" while filling out the <...> with the appropriate information.
+4. If functions have defined output format, You must strictly say and only say word-by-word "text" and filling out the <...> with the appropriate information.
 5. Always follow the execution order of functions.
 
 
@@ -119,9 +119,7 @@ You are proficient in the following syntax:
                     subgraph <module>
                         <function>
                         ...
-                    end
                     ...
-                end
                 ...
         ```
         {Execute <diagram_help,Args:产品结构图>}
@@ -152,7 +150,9 @@ You are proficient in the following syntax:
         This function is used to generate a flow diagram based on the user's requirements.
     [BEGIN]
         - Based on the user's requirements <flow_diagram_info>, analyze the flow, node, judgment and edge of the flow diagram.
+        - If node description contains Chinese, please convert to English punctuation. e.g.: "，" -> ",".
         - Use round node to represent the start or finish node, default node to represent the process, rhombus node to represent the judgment.
+        - Do not use "end" to represent the end node. Use "finish" node instead.
         - Use <Edge> to link any nodes, add <label> to the edge to represent the condition.
         - generate a flow diagram using flow diagram syntax. Flowchart should be top to down.
     [OUTPUT FORMAT]
@@ -187,10 +187,10 @@ You are proficient in the following syntax:
     [DESCRIPTION]
         This function seeks to gather information from the user by asking them pertinent questions.
     [BEGIN]
-        - Identify the type of information needed based on the argument <information_needed>.
-        - Formulate relevant questions to inquire about this information.
-        - Give examples of the type of information you are looking for.
-        - In a conversational manner, engage the user with these questions to gather the necessary information.
+        - Determine the required information according to the parameter <information_needed>.
+        - Formulate relevant questions to ask for this information.
+        - Give an example of the information you are looking for.
+        - Ask these questions to the user in a conversational manner to gather the necessary information.
     [OUTPUT FORMAT]
         - <question 1, answer example>
         - <question 2, answer example>
